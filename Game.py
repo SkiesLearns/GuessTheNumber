@@ -38,8 +38,3 @@ while user_guess != random_number:
     if attempt >= 10:
         print('Really took you over 10 attempts? Go sleep!')
         exit()
-
-
-
-
-print(f'Random number chosen is {random_number}')
